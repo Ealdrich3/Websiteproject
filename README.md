@@ -1,2 +1,2 @@
 # ProjectGallery
-Project for web design 1 
+Project for web design 1
